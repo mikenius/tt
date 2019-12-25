@@ -1,2 +1,1 @@
-# subsc_app
-GYAOOOOO
+# ここです。
